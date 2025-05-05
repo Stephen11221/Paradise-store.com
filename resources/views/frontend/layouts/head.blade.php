@@ -40,6 +40,7 @@
     /* Multilevel dropdown */
     .dropdown-submenu {
     position: relative;
+    background: #000;
     }
 
     .dropdown-submenu>a:after {
